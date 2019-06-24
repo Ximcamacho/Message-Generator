@@ -1,0 +1,20 @@
+h1 {
+  border: 2px dashed white;
+  color: black;
+}
+h2 {
+  color: black;
+  font-family: 'Mali';
+}
+h3 {
+  color: black;
+}
+body {
+  background-color: #66c2ff;
+}
+
+button {
+  border: 4px dashed white;
+  border-radius: 50%
+
+}
